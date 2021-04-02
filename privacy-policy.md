@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 codestoke built the myappname app as a Free app. This SERVICE is provided by codestoke at no cost and is intended for use as is.
 
